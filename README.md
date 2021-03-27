@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![magiccart's GitHub stats](https://github-readme-stats.vercel.app/api?username=alothemes&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alothemes&layout=compact&theme=radical)
+
+<a href="https://www.linkedin.com/in/magiccart/" target="_blank">
+  <img src="https://raw.githubusercontent.com/magiccart/magiccart/master/assets/linkedin.svg" Exper" width="20px" />
+</a>
+
+If you have spare time, checkout the ⚡ [Magepow](https://github.com/magepow) repositories!
